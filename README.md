@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritu
 - 👀 I’m interested in Flutter, Android Development
-- 🌱 I’m currently learning Bloc state Managemaent, React JS ...
+- 🌱 I’m currently learning Bloc State Managemaent, React JS ...
 - 💞️ I’m looking to collaborate on Eductional project 
 - 📫 How to reach me at LinkedIn
 
